@@ -46,5 +46,24 @@ h4 span{
   margin-top: 20px;
 }
 
+.photo-descrip span{
+  font-size: 12px;
+  margin: 0px;
+}
+
+p span{
+  background-color:  #FFFF00;
+}
+
+.text{
+  margin-bottom: 25px;
+}
+
+.text-list{
+  list-style-type: disc;
+  padding: 10px;
+  margin: 10px;
+}
+
 
 

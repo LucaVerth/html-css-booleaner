@@ -8,10 +8,18 @@
   height: 200px;
   background-image: url(/img/pattern.png);
   background-color: #4EA0FF;
+  position: relative;
 }
 
-#logo{
-  background-color: red;
+.logo{
   width: 300px;
   height: 50%;
+  position: absolute;
+  top: 50%;
+}
+
+.title{
+  width: 75%;
+  font-size: 25px;
+  margin-top: 20px;
 }
